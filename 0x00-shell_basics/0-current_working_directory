@@ -1,2 +1,2 @@
 #!/bin/bashpwd
-pwd
+echo $pwd
